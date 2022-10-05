@@ -1,5 +1,6 @@
-Incel = Involuntary celibate
+# Incel = Involuntary celibate
  
+
 I am an incel.
 
 I am an incel because I am affected by a rare neurodegenerative disease.
@@ -25,6 +26,8 @@ I am incel because although I am eager for female consideration, I do not give u
 I am incel because I am not talkative, but shy.
 
 I am incel because many blame me for it.
+
+
  
 My blame is that of being devoured by envy and not by pride.
 
@@ -36,5 +39,6 @@ My blame is that of recognizing a precious asset of which I have been deprived.
 
 My blame is that of having a divergent intelligence, and for that reason I can never be liked.
 
- 
+
+
 I am an incel.
